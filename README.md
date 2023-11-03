@@ -4,14 +4,14 @@ The published source code shall help to understand the specification by examples
 <br>
 <br>
 <br>
-<a href="https://twitter.com/gematik1">
-  <img align="left" alt="twitter gematik1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/gematik1#gh-light-mode-only">
+  <img align="left" alt="twitter gematik1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#gh-light-mode-only" />
 </a>
-<a href="https://de.linkedin.com/company/gematik">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://de.linkedin.com/company/gematik#gh-light-mode-only">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" />
 </a>
-<a href="https://gematik.github.io/">
-  <img align="left" alt="gematik github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://gematik.github.io/#gh-light-mode-only">
+  <img align="left" alt="gematik github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg#gh-light-mode-only" />
 </a>
 <a href="https://www.gematik.de">
   <img align="left" alt="Homepage" width="100px" src="https://www.gematik.de/typo3conf/ext/as_template_gematik/Resources/Public/Images/logo.svg" />
