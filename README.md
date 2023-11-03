@@ -4,8 +4,8 @@ The published source code shall help to understand the specification by examples
 <br>
 <br>
 <br>
-<a href="https://twitter.com/gematik1#gh-light-mode-only">
-  <img align="left" alt="twitter gematik1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg#gh-light-mode-only" />
+<a href="https://twitter.com/gematik1">
+  <img align="left" alt="X gematik1 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />
 </a>
 <a href="https://de.linkedin.com/company/gematik#gh-light-mode-only">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" />
